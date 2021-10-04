@@ -1,4 +1,4 @@
-version: 3.0
+
 services:
   app:
     image: 62ad3be7552f

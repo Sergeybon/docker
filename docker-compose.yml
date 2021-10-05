@@ -1,7 +1,7 @@
 
 services:
   app:
-    image: 62ad3be7552f
+   
     container_name: my-name
     ports:
     - 8080:8080
